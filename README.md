@@ -163,7 +163,7 @@ Screenshots of the app in action:
 
   ![Add](./screenshots/add_new.png)
 ![Add](./screenshots/add_success.png)
-
+![Add](./screenshots/filter_office.png)
 
 
 ---
