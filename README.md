@@ -29,6 +29,29 @@ This project was developed using the following methodology:
 
 ---
 
+## 📊 Sample Data (db.json)
+---
+
+```
+{
+  "properties": [
+    {
+      "id": 1,
+      "name": "Greenwood Apartments",
+      "type": "Apartment",
+      "price": 4800000,
+      "location": "Shaikpet, Hyderabad",
+      "description": "2BHK apartment near main road, semi-furnished.",
+      "image": "https://images.unsplash.com/photo-1501183638710-841dd1904471",
+      "coordinates": { "lat": 17.402, "lng": 78.403 }
+    }
+  ]
+}
+
+```
+
+---
+
 ## 📂 Project Structure
 
 ```
