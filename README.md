@@ -142,6 +142,12 @@ Screenshots of the app in action:
 
   ![Property Listings](./screenshots/display_all.png)
 
+* **Search Functionality**
+
+
+  ![Search](./screenshots/search.png)
+
+
 * **Add Property Form**
   ![Add Property](./screenshots/add-property.png)
 
