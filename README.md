@@ -152,6 +152,8 @@ Screenshots of the app in action:
 
 
   ![Filter](./screenshots/filter_apt.png)
+![Filter](./screenshots/filter_plot.png)
+
 
 * **Property Modal**
   ![Property Modal](./screenshots/property-modal.png)
