@@ -3,7 +3,8 @@
 
 # 🏠 Property Listings App
 
-A modern React-based web application for browsing, filtering, and managing property listings. This project demonstrates CRUD functionality using a mock backend with `json-server`, along with a responsive UI built in React.
+A modern React-based Property Listings Application built with Vite and powered by a mock API (JSON Server).
+The app allows users to search, filter, view details, and add new properties, providing a practical demonstration of frontend development with API integration.
 
 ---
 
