@@ -19,13 +19,34 @@ A modern React-based web application for browsing, filtering, and managing prope
 
 ## 🛠️ Methodology
 
-This project was developed using the following methodology:
+The project follows a **modular component-based methodology**:
 
-1. **Requirement Analysis** – Identified core features for property listing (CRUD, filtering, UI/UX).
-2. **Design & Planning** – Structured the app with reusable components and mock API endpoints.
-3. **Implementation** – Built the frontend with React (Vite) and `json-server` as a mock backend.
-4. **Testing** – Ensured all CRUD operations, filtering, and modals worked as expected.
-5. **Documentation** – Added screenshots and structured README for clarity.
+1. **Frontend Framework**
+
+   * Built using **React 18 + Vite** for a fast development environment.
+   * Component-based structure ensures scalability and reusability.
+
+2. **Data Layer**
+
+   * Mock data is managed through **db.json** (simulating a backend).
+   * `json-server` exposes RESTful API endpoints (`GET`, `POST`).
+   * API calls are handled in `src/api.js`.
+
+3. **State Management**
+
+   * React Hooks (`useState`, `useEffect`, `useMemo`) manage application state.
+   * Filtering and searching happen on the client side for responsiveness.
+
+4. **UI/UX Design**
+
+   * Dark theme with gradient backgrounds for modern aesthetics.
+   * Flexbox & CSS Grid for responsive layouts.
+   * Separate stylesheets for modular design (`index.css`, `App.css`).
+
+5. **Testing & Validation**
+
+   * Validations in Add Property Form (required fields, numeric price, optional coordinates).
+   * Error handling for failed API calls.
 
 ---
 
