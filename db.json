@@ -1,0 +1,100 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "name": "Greenwood Apartments",
+      "type": "Apartment",
+      "price": 4800000,
+      "location": "Shaikpet, Hyderabad",
+      "description": "2BHK apartment near main road, semi-furnished.",
+      "image": "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1200",
+      "coordinates": {
+        "lat": 17.402,
+        "lng": 78.403
+      }
+    },
+    {
+      "id": 2,
+      "name": "Lakeside Villa",
+      "type": "Villa",
+      "price": 16500000,
+      "location": "Gandipet, Hyderabad",
+      "description": "4BHK premium villa with private garden.",
+      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1200",
+      "coordinates": {
+        "lat": 17.386,
+        "lng": 78.322
+      }
+    },
+    {
+      "id": 3,
+      "name": "Tech Park Office Space",
+      "type": "Office",
+      "price": 95000,
+      "location": "Hitech City, Hyderabad",
+      "description": "Furnished office space (monthly rent).",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1200",
+      "coordinates": {
+        "lat": 17.448,
+        "lng": 78.391
+      }
+    },
+    {
+      "id": 4,
+      "name": "Sunrise Plot",
+      "type": "Plot",
+      "price": 3200000,
+      "location": "Kompally, Hyderabad",
+      "description": "200 sq. yds residential plot in gated layout.",
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?q=80&w=1200",
+      "coordinates": {
+        "lat": 17.543,
+        "lng": 78.489
+      }
+    },
+    {
+      "name": "Table",
+      "type": "Villa",
+      "price": 123990,
+      "location": "Jayanagar, Bangalore",
+      "description": "Rosewood Table",
+      "image": "https://www.wakefit.co/dining-furniture/nigella-6-seater-dining-table/WDINENIGET6IW?msclkid=d773657c7464131847780dcafc9d45a6&utm_source=bing&utm_medium=cpc&utm_campaign=HM_Bing_Shopping_CatchAll&utm_term=4587574838616864&utm_content=All%20Products",
+      "id": 5
+    },
+    {
+      "name": "Table",
+      "type": "Apartment",
+      "price": 1100009,
+      "location": "Bangalore",
+      "description": "qqqqq",
+      "image": "https://ik.imagekit.io/2xkwa8s1i/img/npl_modified_images/Dining_metal/WDINENIGET6IW/WDINENIGET6IW_LS_1.jpg?tr=w-1200",
+      "id": 6
+    },
+    {
+      "name": "Birdview Apartments",
+      "type": "Apartment",
+      "price": 2300000,
+      "location": "Jayanagar, Bangalore",
+      "description": "3BHK apartment near industrial area",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.iE7mcw3w2aFFDhXP9A1lggHaE8?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "coordinates": {
+        "lat": 12.935946101276034,
+        "lng": 77.5728052846933
+      },
+      "id": 7
+    },
+    {
+      "name": "Manyatta Tech Park",
+      "type": "Office",
+      "price": 4499999,
+      "location": "Nagavara, Bangalore",
+      "description": "A standardized IT Tech Park with over 1000+ companies.",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqNsKQChFhVAdA9P10MlPx6OjlN0NHjVDr-hyxudqV056nyjPwTtVzOnBH0-2Gr4r5i05W5PRMkoQg0vV2Jgw2W4zibgMCg0Ke5DBNW0B8h_T3E5MjhtJXSzHqUxtQYFRNAFMuXiQ=w408-h510-k-no",
+      "coordinates": {
+        "lat": 13.05396586816925,
+        "lng": 77.6205025806155
+      },
+      "id": 8
+    }
+  ]
+}
