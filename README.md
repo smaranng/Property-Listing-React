@@ -138,6 +138,8 @@ The app should now be running at **[http://localhost:5173/](http://localhost:517
 Screenshots of the app in action:
 
 * **Property Listings**
+
+
   ![Property Listings](./screenshots/display_all.png)
 
 * **Add Property Form**
