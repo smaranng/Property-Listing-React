@@ -30,7 +30,7 @@ This project was developed using the following methodology:
 ---
 
 ## 📊 Sample Data (db.json)
----
+
 
 ```
 {
