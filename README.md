@@ -10,11 +10,13 @@ The app allows users to search, filter, view details, and add new properties, pr
 
 ## 📌 Features
 
-* View a list of properties with images, descriptions, and prices.
-* Add new property listings via a simple form.
-* Filter properties based on criteria (e.g., price, type, location).
-* Interactive property details modal.
-* Loader and responsive design for a smooth user experience.
+* **Responsive Design** – Optimized layout for desktop & mobile.
+* **Property Listings Grid** – Displays apartments, villas, plots, and offices.
+* **Search & Filter** – Search by name or location, filter by property type.
+* **Property Details Modal** – Detailed view with property info and embedded Google Maps.
+* **Add Property Form** – Add new listings dynamically (persisted to JSON Server).
+* **Mock REST API** – Powered by `json-server`, with GET & POST endpoints.
+* **Interactive UI/UX** – Smooth transitions, loaders, and error handling.
 
 ---
 
