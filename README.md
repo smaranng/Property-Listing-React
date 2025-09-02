@@ -63,7 +63,7 @@ property-listings-app/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/property-listings-app.git
+git clone https://github.com/smaranng/Property-Listing-React.git
 cd property-listings-app
 ```
 
