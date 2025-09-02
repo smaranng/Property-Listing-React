@@ -102,15 +102,6 @@ Screenshots of the app in action:
 * **Property Modal**
   ![Property Modal](./screenshots/property-modal.png)
 
-👉 To add screenshots:
-
-1. Take screenshots of your running app (`PrtSc` or `Snipping Tool`).
-2. Save them inside the `/screenshots` folder.
-3. Reference them in the README using Markdown:
-
-   ```markdown
-   ![Description](./screenshots/filename.png)
-   ```
 
 ---
 
