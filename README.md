@@ -148,8 +148,10 @@ Screenshots of the app in action:
   ![Search](./screenshots/search.png)
 
 
-* **Add Property Form**
-  ![Add Property](./screenshots/add-property.png)
+* **Filter Functionality**
+
+
+  ![Filter](./screenshots/filter_apt.png)
 
 * **Property Modal**
   ![Property Modal](./screenshots/property-modal.png)
