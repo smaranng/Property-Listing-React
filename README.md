@@ -76,7 +76,7 @@ npm install
 ### 3️⃣ Run Mock API Server
 
 ```bash
-npx json-server --watch db.json --routes routes.json --port 5000
+npm run server
 ```
 
 ### 4️⃣ Run the React App
