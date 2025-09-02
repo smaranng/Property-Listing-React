@@ -165,7 +165,10 @@ Screenshots of the app in action:
 ![Add](./screenshots/add_success.png)
 ![Add](./screenshots/filter_office.png)
 
+* **View Details and Locate on Map**
 
+
+  ![Search](./screenshots/view_map.png)
 ---
 
 ## 📦 Tech Stack
